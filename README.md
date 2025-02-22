@@ -126,4 +126,4 @@ This ALU can serve as a foundation for more advanced projects, such as designing
 
 #OUTPUT Image
 
-
+![Image](https://github.com/user-attachments/assets/cff05446-c523-4221-ade3-1868616aba7f)
